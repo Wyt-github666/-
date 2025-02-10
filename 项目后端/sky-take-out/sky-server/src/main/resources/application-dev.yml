@@ -19,8 +19,8 @@ sky:
     appid: wx3758b1bdf8ec5635
     secret: 33e7e566a34562f7b400500f797192a4
   tengxun:
-    key: HZIBZ-GXYLL-XERP7-M2RC7-PBDTS-VNBJU
-    sk: YoZ2YfeG88VJmIrO2Dwdebm3jVaYVoHD
+    key: 
+    sk: 
   shop:
     lng: 111.485825
     lat: 33.138356
