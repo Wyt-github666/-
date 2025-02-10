@@ -34,9 +34,6 @@ logging:
         service: info
         controller: info
 
-  #   AccessKey ID     LTAI5tGtupbi3GXwXosiwQuK
-  #   AccessKey Secret     MoRqXfMOMdlODb0Wmr6auYfmLVF1LI
-
 sky:
   jwt:
     # 设置jwt签名加密时使用的秘钥
@@ -56,7 +53,3 @@ sky:
   wechat:
     appid: ${sky.wechat.appid}
     secret: ${sky.wechat.secret}
-#    endpoint: https://oss-cn-beijing.aliyuncs.com
-#    bucketName: springboot-pra002
-#    access-key-id: LTAI5tGtupbi3GXwXosiwQuK
-#    access-key-secret: MoRqXfMOMdlODb0Wmr6auYfmLVF1LI
